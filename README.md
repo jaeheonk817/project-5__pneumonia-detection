@@ -88,11 +88,14 @@ In order to improve the accuracy and fairness of the lung disease detection proj
 
 ## Repository Structure
 ```
+├── [data]
+│    ├── [modified]
+│    └── [original]
+├── [pdf]
+│    ├── notebook.pdf
+│    └── powerpoint.pdf
 ├── .gitignore
 ├── README.md
 ├── notebook.ipynb
 └── powerpoint.pptx
 ```
-
-## Notes
-Data directory is not included in this repository because of its size. If you want to access it directly, please use the URL hyperlink provided under `Data Understanding`.
